@@ -5,7 +5,7 @@ const { execFileSync } = require("child_process");
 
 const SOURCE_URL =
   "https://www.cdc.gov/niosh/docs/2025-103/pdfs/2025-103.pdf";
-const OUTPUT_FILE = path.resolve(__dirname, "../public/data.json");
+const OUTPUT_FILE = path.resolve(__dirname, "../docs/data.json");
 const TABLE_END_MARKER = "Changes to the Placement of Drugs From the 2016 List";
 
 function isSkippableLine(line) {

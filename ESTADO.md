@@ -16,7 +16,7 @@ El proyecto está **completamente funcional y listo para usar en local** con tod
 
 ```
 farmacia/
-├── public/
+├── docs/                   # GitHub Pages
 │   ├── index.html          # Interfaz clínica
 │   ├── app.js              # Lógica de búsqueda
 │   ├── style.css           # Estilos
@@ -64,15 +64,19 @@ farmacia/
 ```bash
 cd /hdd/Proyectos/farmacia
 npm install      # Instala Node.js (sin dependencias npm)
-npm run update   # Descarga PDF y genera public/data.json
+npm run update   # Descarga PDF y genera docs/data.json
 ```
 
 ### Servir aplicación:
 ```bash
 cd /hdd/Proyectos/farmacia
-python3 -m http.server 8000 --directory public
+python3 -m http.server 8000 --directory docs
 # Abre http://localhost:8000 en navegador
 ```
+
+### GitHub Pages:
+La aplicación está publicada en:
+**https://soker90.github.io/medicamentos-peligrosos-niosh**
 
 ## 🔄 Automatización (GitHub Actions)
 
