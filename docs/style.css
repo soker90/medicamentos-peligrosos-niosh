@@ -276,6 +276,102 @@ tbody tr.group-3:hover {
   max-width: 250px;
 }
 
+.info-panel {
+  margin-top: 2rem;
+  background: linear-gradient(135deg, #f8fcfb 0%, #f3f8f7 100%);
+}
+
+.info-panel h2 {
+  color: var(--accent);
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+}
+
+.info-panel h3 {
+  color: var(--accent);
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.2rem;
+}
+
+.info-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.8rem 0;
+}
+
+.info-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.info-list li:last-child {
+  border-bottom: none;
+}
+
+.info-panel a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 150ms ease;
+}
+
+.info-panel a:hover {
+  color: #0b4f4a;
+  text-decoration: underline;
+}
+
+.external-icon {
+  font-size: 0.85em;
+  margin-left: 0.2rem;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.feature {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.feature:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(15, 118, 110, 0.12);
+}
+
+.feature strong {
+  display: block;
+  color: var(--accent);
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.feature p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.github-link {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--border);
+  text-align: center;
+}
+
+.github-link p {
+  margin: 0;
+  font-size: 1rem;
+}
+
 .noscript {
   width: min(760px, 92vw);
   margin: 0 auto 2rem;
@@ -313,6 +409,10 @@ tbody tr.group-3:hover {
   td {
     padding: 0.7rem 0.5rem;
     font-size: 0.9rem;
+  }
+
+  .features-grid {
+    grid-template-columns: 1fr;
   }
 }
 

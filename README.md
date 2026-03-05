@@ -12,9 +12,7 @@ Esta herramienta utiliza datos oficiales extraídos directamente del documento *
 
 - **Documento oficial**: [NIOSH 2025-103 PDF](https://www.cdc.gov/niosh/docs/2025-103/pdfs/2025-103.pdf)
 - **Organismo**: CDC/NIOSH (Centers for Disease Control and Prevention)
-- **Última actualización del documento**: 2024
-- **Última extracción de datos**: Marzo 2026
-- **Próxima actualización automática**: Primer día del mes siguiente (vía GitHub Actions)
+- **Versión del documento**: 2024 (publicado en 2025)
 
 ### Proceso de Extracción
 
@@ -28,7 +26,7 @@ Los datos se obtienen mediante un proceso automatizado que:
 5. Genera `docs/data.json` con 130 medicamentos estructurados
 
 Este proceso se ejecuta automáticamente cada mes mediante GitHub Actions para mantener los datos actualizados.
-
+**Nota**: Para actualizar a futuras versiones del documento NIOSH, será necesario modificar la URL en `scripts/update_data.js` y ejecutar `npm run update`
 ## ✨ Características
 
 - 📋 **Base de datos de 130 medicamentos** extraídos del documento oficial NIOSH 2025-103
@@ -104,10 +102,15 @@ Abre http://localhost:8000 en tu navegador.
 
 **Automático en GitHub:**
 1. GitHub Actions ejecuta el primer día de cada mes a las 04:00 UTC
-2. Descarga el PDF oficial de NIOSH
+2. Descarga el PDF oficial de NIOSH desde la URL configurada
 3. Extrae los medicamentos usando `pdftotext` y regex
-4. Genera `public/data.json`
+4. Genera `docs/data.json`
 5. Auto-commit si hay cambios
+
+**⚠️ Importante**: El workflow está configurado para descargar `2025-103.pdf`. Cuando NIOSH publique una nueva versión (ej: `2026-104.pdf`), deberás:
+1. Actualizar la URL en `scripts/update_data.js`
+2. Ejecutar `npm run update` localmente
+3. Hacer commit y push de los cambios
 
 **Localmente:**
 ```bash
@@ -181,11 +184,8 @@ Si encuentras medicamentos faltantes o datos incorrectos:
 
 | Campo | Valor |
 |-------|-------|
-| **Última actualización de datos** | Marzo 2026 |
-| **Documento NIOSH usado** | [2025-103 PDF](https://www.cdc.gov/niosh/docs/2025-103/pdfs/2025-103.pdf) |
-| **Fecha del documento oficial** | 2024 |
-| **Próxima actualización automática** | 1 de Abril 2026, 04:00 UTC |
-| **Frecuencia de actualización** | Mensual (primer día del mes) |
+| **Documento NIOSH** | [2025-103 PDF](https://www.cdc.gov/niosh/docs/2025-103/pdfs/2025-103.pdf) |
+| **Versión del documento** | 2024 (publicado 2025) |
 | **Estado del proyecto** | ✅ Producción |
 | **GitHub Pages** | [https://soker90.github.io/medicamentos-peligrosos-niosh](https://soker90.github.io/medicamentos-peligrosos-niosh) |
 
@@ -211,6 +211,8 @@ Si encuentras medicamentos faltantes o datos incorrectos:
 - Auto-commit y despliegue en GitHub Pages
 
 🛠️ **Stack técnico**
+⚠️ **Nota sobre actualizaciones**: Cuando NIOSH publique una nueva versión del documento con un número diferente (ej: 2026-104), será necesario actualizar manualmente la URL en `scripts/update_data.js`.
+
 - Frontend: HTML5 + CSS3 + JavaScript vanilla (sin frameworks)
 - Backend: Node.js 18+ (solo para actualización de datos)
 - Extracción de datos: `pdftotext` (poppler-utils) + regex
