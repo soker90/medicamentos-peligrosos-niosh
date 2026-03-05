@@ -1,0 +1,652 @@
+[
+  {
+    "nombre": "abacavir",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "abiraterone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "acitretin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "afatinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "alefacept",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "alitretinoin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ambrisentan",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "anastrozole",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "apomorphine",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "axitinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "bexarotene",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "bicalutamide",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "blinatumomab",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "bosentan",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "bosutinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "cabergoline",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "cabozantinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "carbamazepine",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "carfilzomib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ceritinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "cetrorelix",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "choriogonadotropin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "clobazam",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "clomiphene",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "clonazepam",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "cobimetinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "colchicine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "crizotinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "dabrafenib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "deferiprone",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "degarelix",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "dihydroergotamine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "dinoprostone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "diuretics sunitinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "divalproex",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "dronedarone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "dutasteride",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "entecavir",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "enzalutamide",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "erlotinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "eslicarbazepine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "estradiol",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "estropipate",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "exemestane",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "exenatide",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "finasteride",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "fingolimod",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "fluconazole",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "fluoxymesterone",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "flutamide",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "fosphenytoin",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "fulvestrant",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ganirelix",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "gonadotropin, chorionic",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "goserelin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "histrelin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "icatibant",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "isotretinoin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ivabradine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "leflunomide",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "lenvatinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "letrozole",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "leuprolide",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "lomitapide",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "macitentan",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "medroxyprogesterone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "megestrol",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "menotropins",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "methimazole",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "methylergonovine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "methyltestosterone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "mifepristone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "miltefosine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "mipomersen",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "misoprostol",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "mycophenolic acid",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "nafarelin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "nevirapine",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "nilotinib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "olaparib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "ospemifene",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "oxcarbazepine",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "oxytocin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "palifermin",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "pamidronate",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "paroxetine",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "pasireotide",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "pazopanib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "peginesatide",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "pentetate calcium trisodium",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "phenoxybenzamine",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "phenytoin",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "pipobroman",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "plerixafor",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ponatinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "progesterone",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "progestins",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "propylthiouracil",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "raloxifene",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "rasagiline",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "regorafenib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ribavirin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "riociguat",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "sirolimus",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "sonidegib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "sorafenib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "spironolactone",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "tacrolimus",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "temazepam",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "teriflunomide",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "testosterone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "tofacitinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "topiramate",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "toremifene",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "trametinib",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "tretinoin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "triptorelin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ulipristal",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "urofollitropin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "valproate/valproic acid",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "vemurafenib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "vigabatrin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "vismodegib",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "voriconazole",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "warfarin",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "zidovudine",
+    "grupo": "2",
+    "mensaje": "Recomendación: preparar y manipular en Cabina de Seguridad Biológica según protocolo del centro."
+  },
+  {
+    "nombre": "ziprasidone",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "ziv-aflibercept",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "zoledronic acid",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  },
+  {
+    "nombre": "zonisamide",
+    "grupo": "3",
+    "mensaje": "Recomendación: evaluar manipulación en Cabina de Seguridad Biológica y aplicar medidas de protección establecidas."
+  }
+]

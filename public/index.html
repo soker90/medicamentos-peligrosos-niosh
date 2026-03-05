@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consulta de Medicamentos Peligrosos</title>
+    <meta
+      name="description"
+      content="Consulta rápida de medicamentos del Grupo 2 y 3 con recomendación de Cabina de Seguridad Biológica."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Source+Sans+3:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="hero">
+        <p class="eyebrow">Herramienta clínica</p>
+        <h1>Medicamentos peligrosos: Grupos 2 y 3</h1>
+        <p class="subtitle">
+          Busca por principio activo y obtén una alerta visual con la recomendación
+          de preparación en Cabina de Seguridad Biológica.
+        </p>
+      </header>
+
+      <section class="panel" aria-labelledby="buscador-title">
+        <h2 id="buscador-title">Buscador</h2>
+        <form id="search-form" class="search-row" autocomplete="off">
+          <label for="med-input">Nombre del medicamento</label>
+          <input
+            id="med-input"
+            name="med-input"
+            list="medications-list"
+            placeholder="Ej.: ciclofosfamida"
+            required
+          />
+          <datalist id="medications-list"></datalist>
+          <button type="submit">Consultar</button>
+        </form>
+        <p class="help-text">El autocompletado se carga desde <code>data.json</code>.</p>
+        <button id="toggle-table-btn" class="btn-secondary" type="button">
+          Ver tabla completa
+        </button>
+      </section>
+
+      <section id="table-section" class="panel table-panel hidden" aria-labelledby="tabla-title">
+        <h2 id="tabla-title">Tabla de medicamentos</h2>
+        <div class="table-controls">
+          <label for="group-filter">Filtrar por grupo:</label>
+          <select id="group-filter">
+            <option value="all">Todos (130)</option>
+            <option value="2">Grupo 2 (Antineoplásticos)</option>
+            <option value="3">Grupo 3 (Riesgos reproductivos)</option>
+          </select>
+        </div>
+        <div class="table-wrapper">
+          <table id="drugs-table">
+            <thead>
+              <tr>
+                <th>Medicamento</th>
+                <th>Grupo</th>
+                <th>Recomendación</th>
+              </tr>
+            </thead>
+            <tbody id="table-body">
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section
+        id="result"
+        class="result result-neutral"
+        role="status"
+        aria-live="polite"
+      >
+        <h3>Resultado</h3>
+        <p>Introduce un medicamento para comenzar la consulta.</p>
+      </section>
+    </main>
+
+    <noscript>
+      <p class="noscript">Necesitas habilitar JavaScript para usar esta herramienta.</p>
+    </noscript>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

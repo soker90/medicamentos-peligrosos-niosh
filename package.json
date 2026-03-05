@@ -1,0 +1,13 @@
+{
+  "name": "herramienta-clinica-niosh-insst",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web estatica para consultar medicamentos peligrosos (Grupo 2 y 3) y recomendacion de Cabina de Seguridad Biologica.",
+  "scripts": {
+    "update": "node scripts/update_data.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
